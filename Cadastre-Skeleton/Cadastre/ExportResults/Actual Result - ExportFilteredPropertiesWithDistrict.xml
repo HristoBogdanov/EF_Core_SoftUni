@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Properties>
+  <Property postal-code="VA-90000">
+    <PropertyIdentifier>VA-90000.003.005.005</PropertyIdentifier>
+    <Area>2300</Area>
+    <DateOfAcquisition>2008-08-28 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="ST-60000">
+    <PropertyIdentifier>ST-60000.004.002.002</PropertyIdentifier>
+    <Area>1150</Area>
+    <DateOfAcquisition>2002-06-14 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PL-40000">
+    <PropertyIdentifier>PL-40000.002.004.004</PropertyIdentifier>
+    <Area>1050</Area>
+    <DateOfAcquisition>2010-03-03 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VI-37000">
+    <PropertyIdentifier>VI-37000.001.003.003</PropertyIdentifier>
+    <Area>800</Area>
+    <DateOfAcquisition>1990-08-20 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="DO-93000">
+    <PropertyIdentifier>DO-93000.001.004.004</PropertyIdentifier>
+    <Area>600</Area>
+    <DateOfAcquisition>2005-11-21 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="KA-66000">
+    <PropertyIdentifier>KA-66000.001.002.002</PropertyIdentifier>
+    <Area>360</Area>
+    <DateOfAcquisition>1985-07-23 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VI-37000">
+    <PropertyIdentifier>VI-37000.001.001.001</PropertyIdentifier>
+    <Area>350</Area>
+    <DateOfAcquisition>1975-10-10 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="GA-53000">
+    <PropertyIdentifier>GA-53000.001.004.004</PropertyIdentifier>
+    <Area>330</Area>
+    <DateOfAcquisition>2005-08-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PA-44000">
+    <PropertyIdentifier>PA-44000.001.001.001</PropertyIdentifier>
+    <Area>300</Area>
+    <DateOfAcquisition>1991-05-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PL-40000">
+    <PropertyIdentifier>PL-40000.002.003.003</PropertyIdentifier>
+    <Area>250</Area>
+    <DateOfAcquisition>1995-08-05 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VT-50000">
+    <PropertyIdentifier>VT-50000.001.005.005</PropertyIdentifier>
+    <Area>250</Area>
+    <DateOfAcquisition>2015-09-09 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SI-75000">
+    <PropertyIdentifier>SI-75000.004.001.001</PropertyIdentifier>
+    <Area>230</Area>
+    <DateOfAcquisition>2005-05-12 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PA-44000">
+    <PropertyIdentifier>PA-44000.001.002.002</PropertyIdentifier>
+    <Area>220</Area>
+    <DateOfAcquisition>2006-07-12 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VA-90000">
+    <PropertyIdentifier>VA-90000.003.003.003</PropertyIdentifier>
+    <Area>200</Area>
+    <DateOfAcquisition>2021-02-03 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PL-40000">
+    <PropertyIdentifier>PL-40000.002.001.001</PropertyIdentifier>
+    <Area>180</Area>
+    <DateOfAcquisition>1980-06-14 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="ST-60000">
+    <PropertyIdentifier>ST-60000.004.003.003</PropertyIdentifier>
+    <Area>180</Area>
+    <DateOfAcquisition>1990-12-05 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VR-30000">
+    <PropertyIdentifier>VR-30000.001.001.001</PropertyIdentifier>
+    <Area>180</Area>
+    <DateOfAcquisition>2000-11-05 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PA-44000">
+    <PropertyIdentifier>PA-44000.001.003.003</PropertyIdentifier>
+    <Area>180</Area>
+    <DateOfAcquisition>2013-09-30 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SL-88000">
+    <PropertyIdentifier>SL-88000.005.004.004</PropertyIdentifier>
+    <Area>160</Area>
+    <DateOfAcquisition>1995-03-03 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="GA-53000">
+    <PropertyIdentifier>GA-53000.001.007.007</PropertyIdentifier>
+    <Area>150</Area>
+    <DateOfAcquisition>1995-02-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PE-23000">
+    <PropertyIdentifier>PE-23000.001.002.002</PropertyIdentifier>
+    <Area>150</Area>
+    <DateOfAcquisition>1996-09-10 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="RA-72000">
+    <PropertyIdentifier>RA-72000.004.003.003</PropertyIdentifier>
+    <Area>150</Area>
+    <DateOfAcquisition>2000-05-05 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VT-50000">
+    <PropertyIdentifier>VT-50000.001.003.003</PropertyIdentifier>
+    <Area>150</Area>
+    <DateOfAcquisition>2000-08-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PA-44000">
+    <PropertyIdentifier>PA-44000.001.004.004</PropertyIdentifier>
+    <Area>150</Area>
+    <DateOfAcquisition>2001-08-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="BL-27000">
+    <PropertyIdentifier>BL-27000.003.003.003</PropertyIdentifier>
+    <Area>150</Area>
+    <DateOfAcquisition>2005-09-30 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SF-10000">
+    <PropertyIdentifier>SF-10000.004.002.002</PropertyIdentifier>
+    <Area>150</Area>
+    <DateOfAcquisition>2023-02-10 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VA-90000">
+    <PropertyIdentifier>VA-90000.003.004.004</PropertyIdentifier>
+    <Area>140</Area>
+    <DateOfAcquisition>1990-05-17 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SH-97000">
+    <PropertyIdentifier>SH-97000.001.002.002</PropertyIdentifier>
+    <Area>140</Area>
+    <DateOfAcquisition>1990-09-29 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PE-23000">
+    <PropertyIdentifier>PE-23000.001.004.004</PropertyIdentifier>
+    <Area>140</Area>
+    <DateOfAcquisition>1991-07-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SL-88000">
+    <PropertyIdentifier>SL-88000.005.002.002</PropertyIdentifier>
+    <Area>140</Area>
+    <DateOfAcquisition>2005-09-10 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="RU-70000">
+    <PropertyIdentifier>RU-70000.005.003.003</PropertyIdentifier>
+    <Area>140</Area>
+    <DateOfAcquisition>2010-04-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="ST-60000">
+    <PropertyIdentifier>ST-60000.004.004.004</PropertyIdentifier>
+    <Area>130</Area>
+    <DateOfAcquisition>1985-08-17 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="HA-63000">
+    <PropertyIdentifier>HA-63000.001.002.002</PropertyIdentifier>
+    <Area>130</Area>
+    <DateOfAcquisition>1998-08-03 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="KY-25000">
+    <PropertyIdentifier>KY-25000.001.004.004</PropertyIdentifier>
+    <Area>125</Area>
+    <DateOfAcquisition>1986-06-14 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PE-23000">
+    <PropertyIdentifier>PE-23000.001.001.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1981-06-05 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="BL-27000">
+    <PropertyIdentifier>BL-27000.003.001.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1990-04-25 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="KA-66000">
+    <PropertyIdentifier>KA-66000.001.003.003</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1993-10-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VR-30000">
+    <PropertyIdentifier>VR-30000.001.002.002</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1995-03-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="BL-27000">
+    <PropertyIdentifier>BL-27000.003.004.004</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1995-05-05 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VI-37000">
+    <PropertyIdentifier>VI-37000.001.005.005</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1995-09-30 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="LO-55000">
+    <PropertyIdentifier>LO-55000.001.002.002</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1996-08-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="TA-77000">
+    <PropertyIdentifier>TA-77000.001.003.003</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1996-11-20 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SL-88000">
+    <PropertyIdentifier>SL-88000.005.001.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1998-07-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="YA-86000">
+    <PropertyIdentifier>YA-86000.001.001.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1998-07-20 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="ST-60000">
+    <PropertyIdentifier>ST-60000.004.001.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>1998-10-20 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PL-58000">
+    <PropertyIdentifier>PL-58000.002.002.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>2001-03-21 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="RU-70000">
+    <PropertyIdentifier>RU-70000.005.001.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>2002-06-01 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SF-10000">
+    <PropertyIdentifier>SF-10000.003.002.001</PropertyIdentifier>
+    <Area>120</Area>
+    <DateOfAcquisition>2022-02-01 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="MO-34000">
+    <PropertyIdentifier>MO-34000.001.002.002</PropertyIdentifier>
+    <Area>110</Area>
+    <DateOfAcquisition>1993-10-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="HA-63000">
+    <PropertyIdentifier>HA-63000.001.004.004</PropertyIdentifier>
+    <Area>110</Area>
+    <DateOfAcquisition>1995-06-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VA-90000">
+    <PropertyIdentifier>VA-90000.003.001.001</PropertyIdentifier>
+    <Area>110</Area>
+    <DateOfAcquisition>2015-07-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="RA-72000">
+    <PropertyIdentifier>RA-72000.004.001.001</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>1990-03-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SI-75000">
+    <PropertyIdentifier>SI-75000.004.002.002</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>1990-03-30 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="VT-50000">
+    <PropertyIdentifier>VT-50000.001.002.002</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>1990-11-12 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="KA-66000">
+    <PropertyIdentifier>KA-66000.001.005.005</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>1991-06-05 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="TA-77000">
+    <PropertyIdentifier>TA-77000.001.001.001</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>2001-04-28 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SH-97000">
+    <PropertyIdentifier>SH-97000.001.001.001</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>2005-04-14 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="PE-23000">
+    <PropertyIdentifier>PE-23000.001.003.003</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>2006-11-22 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+  <Property postal-code="SF-10000">
+    <PropertyIdentifier>SF-10000.006.003.002</PropertyIdentifier>
+    <Area>100</Area>
+    <DateOfAcquisition>2022-07-15 00:00:00.0000000</DateOfAcquisition>
+  </Property>
+</Properties>

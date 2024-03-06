@@ -1,0 +1,221 @@
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Ivan Petrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Maria Ivanova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Georgi Dimitrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Stafaniya Angelova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Dimitar Stoyanov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Lyubomir Vasilev with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Elena Dimitrova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Petar Georgiev with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Anton Popov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Ivelina Todorova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Kaloyan Mihaylov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Nikolina Petrova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Todor Aleksandrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Anastasiya Ilieva with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Borislava Kostova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Nikolay Zhelev with 0 medicines.
+Invalid Data!
+Successfully imported patient - Margarita Stafanova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Stanimir Pavlov with 0 medicines.
+Invalid Data!
+Successfully imported patient - Rositsa Hristova with 0 medicines.
+Invalid Data!
+Successfully imported patient - Valeri Terziev with 0 medicines.
+Invalid Data!
+Successfully imported patient - Desislava Marinova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Georgi Ivanov with 0 medicines.
+Invalid Data!
+Successfully imported patient - Svetla Petrova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Yavor Dimitrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Tsvetanka Yordanova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Angel Karaivanov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Emiliya Todorova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Zdravko Kolev with 0 medicines.
+Invalid Data!
+Successfully imported patient - Violeta Georgieva with 0 medicines.
+Invalid Data!
+Successfully imported patient - Radoslav Mihaylov with 0 medicines.
+Invalid Data!
+Successfully imported patient - Iskra Ivanova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Vasil Petrov with 0 medicines.
+Invalid Data!
+Successfully imported patient - Lidiya Nikolova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Dragomir Angelov with 0 medicines.
+Invalid Data!
+Successfully imported patient - Katerina Savova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Vasil Petrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Zdravko Nikolaev with 0 medicines.
+Invalid Data!
+Successfully imported patient - Miho Mihaylov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Iliana Georgieva with 0 medicines.
+Invalid Data!
+Successfully imported patient - Stoyan Petrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Mila Dimitrova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Nikolay Vasilev with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Lidiya Ivanova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Dimitar Stoyanov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Yana Popova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Vladimir Kolev with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Tsvetelina Mihaylova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Georgi Todorov with 0 medicines.
+Invalid Data!
+Successfully imported patient - Kalina Petrova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Ivan Angelov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Elitsa Kirilova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Radoslav Dimitrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Silviya Zaharieva with 0 medicines.
+Invalid Data!
+Successfully imported patient - Krasimir Yordanov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Valentina Tsvetkova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Borislav Marinov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Kristina Ivanova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Martin Georgiev with 0 medicines.
+Invalid Data!
+Successfully imported patient - Aneliya Petrova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Svetoslav Todorov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Denitsa Hristova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Boyan Dimitrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Ekaterina Vasileva with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Viktor Popov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Radina Kostova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Spas Ivanov with 0 medicines.
+Invalid Data!
+Successfully imported patient - Magdalena Stoyanova with 0 medicines.
+Invalid Data!
+Invalid Data!
+Successfully imported patient - Plamen Nikolov with 0 medicines.
